@@ -2,5 +2,5 @@
   "version": "0.4.0+4",
   "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V0.4.0%2B4/MetrumGenie.0.4.0+4.apk",
   "releaseNotes": "This release enables multi-channel sensor data ingestion for internal testing and customer demonstrations",
-  "forceUpdate": false
+  "forceUpdate": true
 }
