@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0+6",
-  "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V0.6.0%2B6/MetrumGenie.0.6.0+6.apk",
+  "version": "0.7.0+7",
+  "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V0.7.0%2B7/MetrumGenie.0.7.0+7.apk",
   "releaseNotes": "This release enables config restoration and multi-channel sensor data ingestion compliance tasks and runs for internal testing and customer demonstrations",
   "forceUpdate": true
 }
