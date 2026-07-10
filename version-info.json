@@ -2,5 +2,5 @@
   "version": "0.13.0+13",
   "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V0.13.0.%2B13/MetrumGenie.0.13.0+13.apk",
   "releaseNotes": "This release enables config restoration and multi-channel sensor data ingestion compliance tasks and runs for internal testing and customer demonstrations",
-  "forceUpdate": true
+  "forceUpdate": false
 }
