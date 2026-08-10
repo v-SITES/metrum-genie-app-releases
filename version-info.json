@@ -1,6 +1,6 @@
 {
-  "version": "0.15.0+15",
-  "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V0.15.0%2B15/MetrumGenie.0.15.0+15.apk",
-  "releaseNotes": "This release enables console timezone selection to the user",
-  "forceUpdate": true
+  "version": "1.0.1+21",
+  "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V1.0.1%2B21/MetrumGenie.1.0.1+21.apk",
+  "releaseNotes": "Test Release",
+  "forceUpdate": false
 }
