@@ -1,6 +1,6 @@
 {
-  "version": "0.16.0+16",
-  "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V0.16.0%2B16/MetrumGenie.0.16.0+16.apk",
-  "releaseNotes": "Introduction of the database migration protocol. This release contains Database Version 1",
+  "version": "1.0.0+20",
+  "url": "https://github.com/v-SITES/metrum-genie-app-releases/releases/download/V1.0.0%2B20/MetrumGenie.1.0.0+20.apk",
+  "releaseNotes": "First commercial release. Introducing Sensor Measurement and Lab Digital Twin Management",
   "forceUpdate": false
 }
